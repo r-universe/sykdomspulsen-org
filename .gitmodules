@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "plnr"]
+	path = plnr
+	url = https://github.com/sykdomspulsen-org/plnr
+	shallow = true
+	registered = true
+[submodule "splutil"]
+	path = splutil
+	url = https://github.com/sykdomspulsen-org/splutil
+	shallow = true
+	registered = true

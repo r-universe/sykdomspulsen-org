@@ -1,0 +1,10 @@
+[
+  {
+    "package": "plnr",
+    "oncran": true
+  },
+  {
+    "package": "splutil",
+    "oncran": true
+  }
+]
