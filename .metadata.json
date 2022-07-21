@@ -1,5 +1,9 @@
 [
   {
+    "package": "org",
+    "oncran": true
+  },
+  {
     "package": "plnr",
     "oncran": true
   },
